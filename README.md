@@ -1,5 +1,5 @@
 ## **BrawndoJS**
-Who needs developers when you've got BrawndoJS
+Who needs developers when you've got BrawndoJS, it's what the apps need
 
 - Fully opinionated html7 NPA* framework
 - Instant upgrade from Developer to 20x Code Warlord Fuller Stack Ninja
